@@ -22,6 +22,7 @@
     "minimatch": "^3.0.4",
     "minimist": "^1.2.0",
     "minimist-options": "^4.0.1",
+    "shell-escape": "^0.2.0",
     "shelljs": "^0.8.3",
     "upath": "^1.1.2"
   },
